@@ -34,7 +34,7 @@ const teme = {
   }
 };
 
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://proiect-biconstruct.onrender.com';
 
 export default function App() {
   const [user, setUser] = useState({
